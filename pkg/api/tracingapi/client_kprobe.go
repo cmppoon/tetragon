@@ -24,7 +24,7 @@ const (
 	ActionSignal       = 9
 	ActionTrackSock    = 10
 	ActionUntrackSock  = 11
-	ActionNotifyKiller = 12
+	ActionNotifyEnforcer = 12
 )
 
 const (
